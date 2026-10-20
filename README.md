@@ -43,16 +43,6 @@
   <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extension" />
 </p>
 
-## 🚀 精选项目 · Featured Projects
-
-| 项目 | 简介 | 语言 |
-| :-- | :-- | :-- |
-| [**Deli_AutoResearch**](https://github.com/sevenyearsonelife/Deli_AutoResearch) | 面向**长时程自主任务**（数天到数周）的 Agent 协议框架：状态持久化、停顿检测、分层守护机制 | Protocol / Docs |
-| [**Better_translation**](https://github.com/sevenyearsonelife/Better_translation) | 构造英翻中偏好数据集，用 DPO / ORPO 微调模型，提升复杂领域的翻译质量 | Python |
-| [**linus-quick-prompt**](https://github.com/sevenyearsonelife/linus-quick-prompt) | 基于 WXT 的浏览器扩展：提示词管理 + 网页端快速插入（`/p` 触发） | TypeScript |
-| [**linus_paper_chrome_studio**](https://github.com/sevenyearsonelife/linus_paper_chrome_studio) | 面向 Google AI Studio 的论文分析助手 Chrome 扩展 | JavaScript |
-| [**Search_r1_linus**](https://github.com/sevenyearsonelife/Search_r1_linus) | 基于 Search-R1 的实践：用强化学习训练 LLM 推理并调用搜索引擎 | Python |
-| [**manim_2026**](https://github.com/sevenyearsonelife/manim_2026) | Manim Community Edition 示例与数学动画实验 | Python |
 
 ## 📊 GitHub 统计 · Stats
 
