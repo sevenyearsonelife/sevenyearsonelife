@@ -1,12 +1,11 @@
 <div align="center">
 
 <a href="https://github.com/sevenyearsonelife">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B+I'm+Linus+Turing;Investment+Advisory+%C3%97+AI+Agents;Build.+Sell.+Invest." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B+I'm+Linus+Turing;Building+AI+Agents;Python+First" alt="Typing SVG" />
 </a>
 
 <p>
   <img src="https://img.shields.io/badge/Focus-AI%20Agents-8A2BE2?style=flat-square" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/Domain-投顾%20%2F%20Investment-0A7E8C?style=flat-square" alt="Investment" />
   <img src="https://komarev.com/ghpvc/?username=sevenyearsonelife&style=flat-square&color=blue&label=Profile+Views" alt="Profile views" />
   <a href="https://github.com/sevenyearsonelife?tab=followers"><img src="https://img.shields.io/github/followers/sevenyearsonelife?style=flat-square&label=Followers&color=555" alt="Followers" /></a>
 </p>
@@ -15,12 +14,12 @@
 
 ## 👋 关于我 · About Me
 
-- 💼 在基金投顾行业工作，同时动手构建 **AI Agent**，探索 AI 在投研与日常效率上的落地。
+- 🤖 动手构建 **AI Agent**，探索 AI 在日常效率上的落地。
 - 🤖 日常运行着一群自己的 AI Agent 机器人，让它们帮忙做研究、写代码、整理信息。
 - 🐍 主力语言 **Python**，也写一些 TypeScript / JavaScript 的浏览器扩展。
-- 📈 信奉价值投资与长期主义：**Build. Sell. Invest.**
+- 🌱 信奉长期主义，持续学习。
 
-> *I work in fund investment advisory and build AI agents in my spare time. Python first, long-term thinking always.*
+> *I build AI agents. Python first, long-term thinking always.*
 
 ## 🌱 正在学习 / 关注 · Learning & Exploring
 
@@ -30,7 +29,6 @@
 | ⚡ 后端 | FastAPI、服务设计、网络架构 |
 | 🧠 AI | LLM Agent、强化学习 (RL for LLMs)、长时程自主任务 |
 | 🎬 可视化 | Manim 数学动画 |
-| 💡 投资 | 价值投资 —— 芒格、李录、Naval |
 
 ## 🛠️ 技术栈 · Tech Stack
 
@@ -69,10 +67,8 @@
 
 ## 💬 座右铭 · Quote
 
-> *“To get what you want, you have to deserve what you want.”* — Charlie Munger
->
 > *“Play long-term games with long-term people.”* — Naval Ravikant
 
 <div align="center">
-  <sub>Build. Sell. Invest. · 此生志愿</sub>
+  <sub>Keep building · 持续构建</sub>
 </div>
